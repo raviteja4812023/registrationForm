@@ -1,0 +1,37 @@
+.users-list-container {
+  display: flex;
+  flex-direction: column;
+}
+.users-list {
+  display: flex;
+  flex-direction: row;
+}
+.name {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.email {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 8px;
+}
+.phone-number {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 8px;
+}
+.edit-button {
+  width: 125px;
+  height: 75px;
+  color: goldenrod;
+  border-width: 1px;
+  border-color: gray;
+}
+.delete-button {
+  width: 125px;
+  height: 75px;
+  color: goldenrod;
+  border-width: 1px;
+  border-color: gray;
+}
